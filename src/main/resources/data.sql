@@ -1,0 +1,2 @@
+INSERT INTO BOOKS (ISBN, TITLE, AUTHOR) VALUES ('111', 'Head First Java', 'Kathy Sierra & Bert Bates')
+INSERT INTO BOOKS (ISBN, TITLE, AUTHOR) VALUES ('112', 'Head First Java', 'Elizabeth Freeman & Kathy Sierra')
